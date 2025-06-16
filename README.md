@@ -18,25 +18,6 @@ Now I’m diving headfirst into code, learning how to build full systems — fro
 | `HTML/CSS` 🖌️   | Django, Flask (learning)         | Documenter & Fast Learner ⚡     |
 |                  |                                 | Always Curious, Always Learning 📚 |
 
----
-
-## 📂 Featured Projects
-
-### 🚗 Car Rental CLI System
-> A terminal-based car rental system built with Python and SQLite  
-📌 Implements OOP design, Singleton for DB connection, and Factory Method for user roles  
-📌 Supports Admin, Staff, and Customer roles with CRUD operations  
-📌 Modular structure with command-line menus and table formatting  
-🔗 _Coming soon to this repo..._
-
----
-
-### 📚 Te Reo Language Learning App _(Student Capstone Project)_
-> Helping users learn Te Reo through interactive modules and quizzes  
-📌 Built with Django + PostgreSQL (Work in Progress)  
-📌 Focused on inclusive UX/UI, content management, and data tracking  
-📌 Agile-based development with version control  
-🔗 _Private for now!_
 
 ---
 
