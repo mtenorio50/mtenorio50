@@ -1,7 +1,7 @@
 # Michael Tenorio Portfolio
 
 This is my personal software engineering and database portfolio.  
-View it live: [mtenorio50.github.io](https://mtenorio50.github.io/)
+View it live: [mtenorio50.github.io](https://mtenorio50.github.io/portfolio/)
 
 ## About Me
 - Master's student, Yoobee College, Auckland
